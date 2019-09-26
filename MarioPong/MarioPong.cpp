@@ -131,7 +131,7 @@ int main()
 	//carrega as imagens: jogador, fundo, placar
 	barra = al_load_bitmap("recursos/barra.png");
 	fundo = al_load_bitmap("recursos/fundo.jpg");
-	placar = al_load_bitmap("recursos/placar2.png");
+	placar = al_load_bitmap("recursos/placar.png");
 	moeda = al_load_bitmap("recursos/moeda.png");
 	bolaFogo = al_load_bitmap("recursos/bola_fogo.png");
 	imgMenuInicial = al_load_bitmap("recursos/menu_inicial.png");
